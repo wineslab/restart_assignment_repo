@@ -14,3 +14,7 @@ The datasets you need to download are located at:
 **Important:** 
 - We will ask you to submit a trained model we can test using the `./Test_Performance_Fake.py` script. If you cannot test your model using that script, it means that you need to change input/output format to match the requirement.
 - Groups that are willing to present their approach, are free to prepare 2-3 slides to present their work and results to the audience. Please let us know in advance if you are willing to present.
+
+**Slides from the talk:** 
+
+- ML Primer: [this link]([https://drive.google.com/file/d/1gjTM2qki8dSf0_02xxxQjIn7Qk2zaHH0/view?usp=sharing](https://www.dropbox.com/scl/fi/uzsyv5idvmz9ahjyjelo4/tech_camp_ML_primer.pdf?rlkey=cidtbqputurzlunbrgbyv3rjq&dl=0))
