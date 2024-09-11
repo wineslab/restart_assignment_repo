@@ -17,4 +17,4 @@ The datasets you need to download are located at:
 
 **Slides from the talk:** 
 
-- ML Primer: [this link]([https://drive.google.com/file/d/1gjTM2qki8dSf0_02xxxQjIn7Qk2zaHH0/view?usp=sharing](https://www.dropbox.com/scl/fi/uzsyv5idvmz9ahjyjelo4/tech_camp_ML_primer.pdf?rlkey=cidtbqputurzlunbrgbyv3rjq&dl=0))
+- ML Primer: [this link](https://www.dropbox.com/scl/fi/uzsyv5idvmz9ahjyjelo4/tech_camp_ML_primer.pdf?rlkey=cidtbqputurzlunbrgbyv3rjq&dl=0)
