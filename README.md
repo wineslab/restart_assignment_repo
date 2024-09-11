@@ -18,3 +18,4 @@ The datasets you need to download are located at:
 **Slides from the talk:** 
 
 - ML Primer: [this link](https://www.dropbox.com/scl/fi/uzsyv5idvmz9ahjyjelo4/tech_camp_ML_primer.pdf?rlkey=cidtbqputurzlunbrgbyv3rjq&dl=0)
+- Detaset description slides: [this link](https://github.com/wineslab/restart_assignment_repo/blob/main/restart-techcamp-2024.pdf)
