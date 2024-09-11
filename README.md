@@ -21,3 +21,7 @@ The datasets you need to download are located at:
 - Detaset description slides: [this link](https://github.com/wineslab/restart_assignment_repo/blob/main/restart-techcamp-2024.pdf)
 - Original dataset available at [this link](https://github.com/wineslab/colosseum-oran-coloran-dataset)
 - Paper describing the dataset and AI-based xApps is M. Polese, L. Bonati, S. D'Oro, S. Basagni, T. Melodia, "ColO-RAN: Developing Machine Learning-based xApps for Open RAN Closed-loop Control on Programmable Experimental Platforms," IEEE Transactions on Mobile Computing, pp. 1-14, July 2022. [PDF](https://arxiv.org/pdf/2112.09559)
+
+  **Email contacts
+  - Andrea Pimpinella: andrea.pimpinella@unibg.it
+  - Salvatore D'Oro: s.doro@northeastern.edu
