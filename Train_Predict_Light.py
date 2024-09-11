@@ -173,8 +173,5 @@ def main():
 plt.show(block=False)
 
 
-                print('')
-        print('')
-
 if __name__ == "__main__":
     main()
