@@ -7,7 +7,7 @@ You will learn to work with cellular datasets and train AI solutions to classify
 - The script [Train_Predict_Light.py](https://github.com/wineslab/restart_assignment_repo/blob/main/Train_Predict_Light.py) offers a baseline training pipeline that shows you how to open the dataset, extract/plot data, and provide a skeleton to train a base AI algorithm.
 - The script [Test_Performance_Fake.py](https://github.com/wineslab/restart_assignment_repo/blob/main/Test_Performance_Fake.py) offers a testing algorithm for your trained algorithm to verify that your solution processes data correctly and can be evaluated.
 
-- The script [Train_Predict_Full.py](https://github.com/wineslab/restart_assignment_repo/blob/main/Train_Predict_Full.ipynb) offers a baseline training pipeline that shows you how to open the dataset, extract/plot data, and provide you an implementation of a traditional training & prediction AI pipeline for two classifiers of example.
+- The script [Train_Predict_Full.ipynb](https://github.com/wineslab/restart_assignment_repo/blob/main/Train_Predict_Full.ipynb) offers a jupyter notebook containing a baseline training pipeline that shows you how to open the dataset, extract/plot data, and provide you an implementation of a traditional training & prediction AI pipeline for two classifiers of example.
 
 The datasets you need to download are located at:
 - Fake testing dataset available at [this link](https://drive.google.com/file/d/1gjTM2qki8dSf0_02xxxQjIn7Qk2zaHH0/view?usp=sharing). This has the same format as the testing dataset but has not the same data that will be used to evaluate your algorithms :) We will make this dataset available once you are all done with the activities.
