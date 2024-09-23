@@ -11,6 +11,7 @@ You will learn to work with cellular datasets and train AI solutions to classify
 
 The datasets you need to download are located at:
 - Fake testing dataset available at [this link](https://drive.google.com/file/d/1gjTM2qki8dSf0_02xxxQjIn7Qk2zaHH0/view?usp=sharing). This has the same format as the testing dataset but has not the same data that will be used to evaluate your algorithms :) We will make this dataset available once you are all done with the activities.
+- Real testing dataset available at [this link](https://drive.google.com/file/d/1AnsihW15mJncv66w3Tee8qhTklIbB5tY/view?usp=sharing).
 - Training dataset available at [this link](https://drive.google.com/file/d/1UZJVwSVznpDIIvDKtDyVRxpeNVDb2Hz5/view?usp=sharing). This is the training dataset you should use. We suggest you split this into 3 subsets for training, validation and testing. Note that the testing dataset you will produce here is different from the one above. 
 
 **Important:** 
